@@ -1,5 +1,11 @@
-# Docker
-### 도커 정리
+# 💡 Docker
+
+
+
+<div align="center">
+	<h3> 도커 정리 </h3>
+ 	<img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
+</div>
 
 # 1
 
@@ -193,5 +199,5 @@ boot  etc  lib   lib64  media   opt  root  sbin  sys  usr
 이때 보여지는 환경은 바깥의 리눅스 환경과 다른 곳.
 가상화와 비슷하다고 생각하면 쉽다.
 
-https://www.youtube.com/watch?v=Bhzz9E3xuXY&t=360s
-현재 23:30 까지 들었따.
+
+같은 내용 : velog.io/@joo_zero
